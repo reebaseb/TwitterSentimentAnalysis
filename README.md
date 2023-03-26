@@ -1,9 +1,6 @@
-# NLP_Twitter_Sentiment_Analysis
-NLP Twitter Sentiment Analysis (Machine Learning)
+# Twitter_Sentiment_Analysis
+Twitter Sentiment Analysis (Machine Learning)
 
-Completed Coursera Guided Project by Suhaimi William Chan
-
-Instructor: Ryan Ahmed, Ph.D.
 
 Project Structure
 
